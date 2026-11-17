@@ -1,0 +1,30 @@
+{
+  "uuid": "b5e18047-fafd-4b33-8fbe-4848278460b3",
+  "name": "evolio2-local",
+  "owner": {
+    "name": "evolio2"
+  },
+  "plugins": [
+    {
+      "uuid": "cb9de59c-6420-42d5-ad37-b694b0aa3894",
+      "name": "evolio2",
+      "source": "./plugins/evolio2",
+      "description": "Independent Evolio MCP configuration for tenant efry. Intended for search and reading only; server permissions are not restricted by this configuration.",
+      "category": "legal",
+      "i18n": {
+        "cs": {
+          "displayName": "evolio2",
+          "description": "Samostatné připojení k Evoliu Efry pro vyhledávání a čtení. Neomezuje samo oprávnění na serveru."
+        },
+        "en": {
+          "displayName": "evolio2",
+          "description": "Independent Evolio MCP configuration for tenant efry. Intended for search and reading only; server permissions are not restricted by this configuration."
+        },
+        "sk": {
+          "displayName": "evolio2",
+          "description": "Samostatné pripojenie k Evoliu Efry na vyhľadávanie a čítanie. Samo neobmedzuje oprávnenia na serveri."
+        }
+      }
+    }
+  ]
+}
