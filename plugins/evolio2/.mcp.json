@@ -1,0 +1,48 @@
+{
+  "mcpServers": {
+    "evolio2-spisy": {
+      "type": "http",
+      "url": "https://emcp.evolio.cz/efry/pripady/mcp"
+    },
+    "evolio2-subjekty": {
+      "type": "http",
+      "url": "https://emcp.evolio.cz/efry/subjekty/mcp"
+    },
+    "evolio2-udalosti": {
+      "type": "http",
+      "url": "https://emcp.evolio.cz/efry/udalosti/mcp"
+    },
+    "evolio2-ukoly": {
+      "type": "http",
+      "url": "https://emcp.evolio.cz/efry/ukoly/mcp"
+    },
+    "evolio2-posta": {
+      "type": "http",
+      "url": "https://emcp.evolio.cz/efry/posta/mcp"
+    },
+    "evolio2-fakturace": {
+      "type": "http",
+      "url": "https://emcp.evolio.cz/efry/fakturace/mcp"
+    },
+    "evolio2-pausaly": {
+      "type": "http",
+      "url": "https://emcp.evolio.cz/efry/pausaly/mcp"
+    },
+    "evolio2-finance": {
+      "type": "http",
+      "url": "https://emcp.evolio.cz/efry/finance/mcp"
+    },
+    "evolio2-banka": {
+      "type": "http",
+      "url": "https://emcp.evolio.cz/efry/banka/mcp"
+    },
+    "evolio2-splatky": {
+      "type": "http",
+      "url": "https://emcp.evolio.cz/efry/splatky/mcp"
+    },
+    "evolio2-aml": {
+      "type": "http",
+      "url": "https://emcp.evolio.cz/efry/aml/mcp"
+    }
+  }
+}
